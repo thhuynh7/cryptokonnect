@@ -17,13 +17,13 @@ export default class Footer extends Component {
               <a href="/">
                 <i className="fab fa-facebook-f"></i>
               </a>
-              <a href="https://github.com/arwerrone/CryptoKonnect">
+              <a href="https://github.com/thhuynh7/cryptokonnect">
                 <i className="fab fa-github"></i>
               </a>
               <a href="/">
                 <i className="fab fa-instagram"></i>
               </a>
-              <a href="/">
+              <a href="https://www.linkedin.com/in/thai-gta">
                 <i className="fab fa-linkedin-in"></i>
               </a>
             </div>
