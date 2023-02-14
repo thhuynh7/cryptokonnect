@@ -1,0 +1,94 @@
+.container {
+  max-width: 1150px;
+  margin: auto;
+  padding: 30px 40px 40px 40px;
+}
+.social {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.icon {
+  display: flex;
+}
+
+.icon a {
+  height: 40px;
+  width: 40px;
+  margin: 0 8px;
+  border-radius: 50%;
+  text-align: center;
+
+  line-height: 40px;
+  color: #fff;
+  font-size: 17px;
+  text-decoration: none;
+  transition: all 0.4s ease;
+}
+
+.icon a:nth-child(1) {
+  background: #4267b2;
+}
+.icon a:nth-child(1):hover {
+  color: #4267b2;
+  background: #fff;
+  border: 1px solid rgb(15, 130, 0);
+}
+.icon a:nth-child(2) {
+  background: #000000;
+}
+.icon a:nth-child(2):hover {
+  color: #000000;
+  background: #fff;
+  border: 1px solid rgb(15, 130, 0);
+}
+.icon a:nth-child(3) {
+  background: #e1306c;
+}
+.icon a:nth-child(3):hover {
+  color: #e1306c;
+  border: 1px solid rgb(15, 130, 0);
+  background: #fff;
+}
+.icon a:nth-child(4) {
+  background: #0077b5;
+}
+.icon a:nth-child(4):hover {
+  color: #0077b5;
+  background: #fff;
+  border: 1px solid rgb(15, 130, 0);
+}
+.icon a:nth-child(5) {
+  background: #ff0000;
+}
+.icon a:nth-child(5):hover {
+  color: #ff0000;
+  border: 1px solid rgb(15, 130, 0);
+  background: #fff;
+}
+
+.link {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.col {
+  width: calc(100% / 5 - 10px);
+}
+.col li a {
+  color: rgb(109, 109, 109);
+  font-size: 14px;
+
+  font-weight: 400;
+  text-decoration: none;
+  opacity: 0.8;
+  transition: all 0.4s ease;
+}
+.col li a:hover {
+  opacity: 1;
+  text-decoration: none;
+  color: rgb(15, 130, 0);
+}
