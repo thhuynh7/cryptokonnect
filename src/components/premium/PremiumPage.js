@@ -78,15 +78,15 @@ const PremiumPage = () => {
         <Accordion flush>
           <Accordion.Item eventKey="0">
             <Accordion.Header>Premium Alert System</Accordion.Header>
-            <Accordion.Body>Customize your favourite crypto threshold alert, Unlimited amount for alerts.</Accordion.Body>
+            <Accordion.Body>Tailor your crypto threshold alert to your liking and create as many alerts as you want - there are no limits!</Accordion.Body>
           </Accordion.Item>
           <Accordion.Item eventKey="1">
-            <Accordion.Header>Unlimited Favourite Crypto List</Accordion.Header>
-            <Accordion.Body>A regular account you can just have 3 favourite coins, but with premium you can have as many as you want, don't mind the 3 coins that you choose to keep track, just keep adding your coins to your favourite list and enjoy.</Accordion.Body>
+            <Accordion.Header>Unlimited Crypto Portfolio</Accordion.Header>
+            <Accordion.Body>If you have a regular account, you're limited to selecting only three favorite coins. However, if you upgrade to a premium account, you can add as many coins as you'd like to your Portfolio. Simply keep adding your favorite coins to your Portfolio and enjoy the benefits of having a Premium account.</Accordion.Body>
           </Accordion.Item>
           <Accordion.Item eventKey="2">
-            <Accordion.Header>Feature #3</Accordion.Header>
-            <Accordion.Body>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</Accordion.Body>
+            <Accordion.Header>Priority Access</Accordion.Header>
+            <Accordion.Body>Priority access during peak times, faster response times, and early access to new features and upgrades.</Accordion.Body>
           </Accordion.Item>
         </Accordion>
         <br></br>
