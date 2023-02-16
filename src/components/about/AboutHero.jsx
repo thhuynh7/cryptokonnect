@@ -21,16 +21,19 @@ const AboutHero = () => {
         </div>
 
         <div
-          className="absolute flex flex-col py-3 md:min-w-[760px] bottom-[8%]
-            mx-4 md:left-1/2 transform md:-translate-x-1/2 bg-white
+          className="mx-12 px-11 flex flex-col py-3 md:min-w-[1150px] bottom-[8%]
+             bg-white
             border border-slate-300 rounded-xl text-center shadow-2xl"
         >
           <p className="text-2xl text-slate-500">About the Developer</p>
           <div className="flex justify-between flex-wrap px-4 text-3xl">
-            <p className="flex flex-wrap mx-auto px-4 py-2 text-primary">
+            <p className="flex flex-wrap mx-auto px-4 py-2 text-3xl text-indigo-600">
               <PaperAirplaneIcon className="h-9 text-indigo-600" /> Thai Huynh
             </p>
-            <p className="text-left text-2xl">I am a Lead Engineer with 4+ years of experience leading teams of up to 8 engineers on hundreds of projects that are worth half a million dollars each.</p>
+            <p className="text-left text-2xl">I am a Software Engineer. In fact, I haven't always seen myself as a software engineer.</p>
+            {/* <p className="text-left text-2xl">I used to be a Lead Engineer with 4+ years of experience leading teams of up to 8 engineers on hundreds of projects that are worth half a million dollars each.</p> */}
+            <p className="text-left text-2xl">While I was a civil engineer working for a major construction company in Australia as a technical lead, I applied new software and technologies at my job on a daily basis.</p>
+            <p className="text-left text-2xl">And considering the parts of my job I found most satisfying were related to computers and technology; I made a major career change from Civil engineering to Programming. And so here I am in Canada doing what I’m most passionate about which is working in the tech industry in North America where the software development sector is growing the fastest in the world!</p>
           </div>
         </div>
       </div>

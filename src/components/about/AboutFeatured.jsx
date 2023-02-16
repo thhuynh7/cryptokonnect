@@ -5,7 +5,7 @@ const AboutFeatured = () => {
     <div name="about" className="w-full my-32">
       <div className="max-w-[1240px] mx-auto">
         <div className="text-center">
-          <h2 className="text-5xl font-bold">We Solve the problem of Crypto Tracking</h2>
+          <h2 className="text-5xl font-bold text-indigo-600">We Solve the problem of Crypto Tracking</h2>
           <p className="text-2xl pt-6 text-gray-500">The time-consuming process of keeping track of all the cryptos listed on multiple exchanges around the world.</p>
           <p className="text-2xl pb-6 text-gray-500">Malicious actors can often spread false information causing 
 confusion in the crypto market. </p>
