@@ -30,10 +30,10 @@ const AboutHero = () => {
             <p className="flex flex-wrap mx-auto px-4 py-2 text-3xl text-indigo-600">
               <PaperAirplaneIcon className="h-9 text-indigo-600" /> Thai Huynh
             </p>
-            <p className="text-left text-2xl">I am a Software Engineer. In fact, I haven't always seen myself as a software engineer.</p>
+            <p className="text-left text-2xl">I am a seasoned Engineer with a knack for problem-solving and innovation. It may come as a surprise, but I haven't always considered myself a Software Engineer.</p>
             {/* <p className="text-left text-2xl">I used to be a Lead Engineer with 4+ years of experience leading teams of up to 8 engineers on hundreds of projects that are worth half a million dollars each.</p> */}
-            <p className="text-left text-2xl">While I was a civil engineer working for a major construction company in Australia as a technical lead, I applied new software and technologies at my job on a daily basis.</p>
-            <p className="text-left text-2xl">And considering the parts of my job I found most satisfying were related to computers and technology; I made a major career change from Civil engineering to Programming. And so here I am in Canada doing what I’m most passionate about which is working in the tech industry in North America where the software development sector is growing the fastest in the world!</p>
+            <p className="text-left text-2xl">Before transitioning to software engineering, I was a Technical Lead for a leading construction firm in Australia. My work revolved around leveraging cutting-edge software and technologies to improve our operations. It was during this time that I realized how much I enjoyed working with computers and technology.</p>
+            <p className="text-left text-2xl">Driven by this newfound passion, I made a pivotal career move and shifted from Civil Engineering to Programming. Now, I'm pursuing my calling in Canada, working in the ever-evolving tech industry in North America. It's exhilarating to be part of the world's fastest-growing software development sector, doing what I love every day.</p>
           </div>
         </div>
       </div>
